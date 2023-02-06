@@ -1,0 +1,16 @@
+div{
+    display: flex;
+    justify-content:space-evenly ;
+    align-items: center;
+    min-height: 200px;
+    background-color: cadetblue;
+    
+}
+#add{
+    
+    background-color: rgb(209, 208, 208);
+    width:fit-content;
+    padding: auto;
+    border: none;
+    outline: 2px solid black;
+}
